@@ -1,0 +1,19 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "description": "API Automation menggunakan Supertest, Mocha dan Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "chai-json-schema": "^1.5.1",
+    "mocha": "^10.7.3",
+    "mochawesome": "^7.1.3",
+    "supertest": "^7.0.0"
+  }
+}
